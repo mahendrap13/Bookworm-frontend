@@ -1,0 +1,14 @@
+.left-h p {
+  transition: all 0.3s;
+}
+.left-h p:hover {
+  color: #f75454;
+}
+.right-h a {
+  transition: all 0.3s;
+  font-weight: 700;
+}
+.right-h a:hover {
+  color: #f75454;
+  /* color: #000; */
+}

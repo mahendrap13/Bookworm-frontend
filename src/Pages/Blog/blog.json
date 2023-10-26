@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/img1-13-506x341.jpg",
+        "category": "Science & Math",
+        "title": "‘American Dirt’ Invites Readers into the Journey of Mexican Migrants",
+        "description": "It’s nice to win awards. Last night, the Ueno team in Reykjavík came home from the Icelandic Web Awards.",
+        "date": "August 19, 2020"
+    },
+    {
+        "id": 2,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/07/book7-506x341.jpg",
+        "category": "Arts & Photography",
+        "title": "‘Anne Bogel’s 5 Tips to Restore Your Love of Reading",
+        "description": "In our internet world, attention is drawn in different directions at once as we multi-task through every day.",
+        "date": "August 19, 2020 "
+    },
+    {
+        "id": 3,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/07/book5-506x341.jpg",
+        "category": "Science & Math",
+        "title": "‘Benefits of Reading: Getting Smart, Thin, Healthy, Happy",
+        "description": "The more knowledge you have, the better-equipped you are to tackle any challenge you’ll ever face.",
+        "date": "August 19, 2020 "
+    },
+    {
+        "id": 4,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book3-506x341.jpg",
+        "category": " Biographies & Memoirs",
+        "title": "‘Books with Horrible Dating Advice",
+        "description": "The more you read, the more words you gain exposure to, and they’ll inevitably make their way into your vocabulary.",
+        "date": "August 17, 2020 "
+    },
+    {
+        "id": 5,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book-506x341.jpg",
+        "category": "Romance",
+        "title": "‘American Dirt’ Invites Readers into the Journey of Mexican Migrants",
+        "description": "Exposure to published, well-written work has a noted effect on one’s own writing.",
+        "date": "August 18, 2020"
+    },
+    {
+        "id": 5,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book2-506x341.jpg",
+        "category": "Arts & Photography",
+        "title": "Should You Feel Embarrassed for Reading Kids Books?",
+        "description": "In our internet world, attention is drawn in different directions at once as we multi-task through every day.",
+        "date": "August 19, 2020 "
+    },
+    {
+        "id": 7,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book8-506x341.jpg",
+        "category": "Science & Math",
+        "title": "‘Benefits of Reading: Getting Smart, Thin, Healthy, Happy",
+        "description": "The more knowledge you have, the better-equipped you are to tackle any challenge you’ll ever face.",
+        "date": "August 19, 2020 "
+    },
+    {
+        "id": 8,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/07/book5-506x341.jpg",
+        "category": "Arts & Photography",
+        "title": "Should You Feel Embarrassed for Reading Kids Books?",
+        "description": "In our internet world, attention is drawn in different directions at once as we multi-task through every day.",
+        "date": "August 19, 2020 "
+    },
+    {
+        "id": 9,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book3-506x341.jpg",
+        "category": " Biographies & Memoirs",
+        "title": "‘Books with Horrible Dating Advice",
+        "description": "The more you read, the more words you gain exposure to, and they’ll inevitably make their way into your vocabulary.",
+        "date": "August 17, 2020 "
+    },
+    {
+        "id": 10,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/07/book6-506x341.jpg",
+        "category": "Romance",
+        "title": "‘American Dirt’ Invites Readers into the Journey of Mexican Migrants",
+        "description": "Exposure to published, well-written work has a noted effect on one’s own writing.",
+        "date": "August 18, 2020"
+    },
+    {
+        "id": 11,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book-506x341.jpg",
+        "category": "Romance",
+        "title": "‘American Dirt’ Invites Readers into the Journey of Mexican Migrants",
+        "description": "Exposure to published, well-written work has a noted effect on one’s own writing.",
+        "date": "August 18, 2020"
+    },
+    {
+        "id": 12,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book3-506x341.jpg",
+        "category": " Biographies & Memoirs",
+        "title": "‘Books with Horrible Dating Advice",
+        "description": "The more you read, the more words you gain exposure to, and they’ll inevitably make their way into your vocabulary.",
+        "date": "August 17, 2020 "
+    },
+    {
+        "id": 13,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book3-506x341.jpg",
+        "category": " Biographies & Memoirs",
+        "title": "‘Books with Horrible Dating Advice",
+        "description": "The more you read, the more words you gain exposure to, and they’ll inevitably make their way into your vocabulary.",
+        "date": "August 17, 2020 "
+    },
+    {
+        "id": 14,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/08/book-506x341.jpg",
+        "category": "Romance",
+        "title": "‘American Dirt’ Invites Readers into the Journey of Mexican Migrants",
+        "description": "Exposure to published, well-written work has a noted effect on one’s own writing.",
+        "date": "August 18, 2020"
+    },
+    {
+        "id": 15,
+        "imgurl": "https://bookworm.madrasthemes.com/wp-content/uploads/2020/07/book5-506x341.jpg",
+        "category": "Arts & Photography",
+        "title": "Should You Feel Embarrassed for Reading Kids Books?",
+        "description": "In our internet world, attention is drawn in different directions at once as we multi-task through every day.",
+        "date": "August 19, 2020 "
+    }
+]

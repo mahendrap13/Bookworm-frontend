@@ -1,0 +1,11 @@
+/* color :"#19110b" */
+
+.appbar .page-link ul li a {
+  color: #19110b;
+  font-weight: 500;
+  transition: all 0.3s;
+}
+.appbar .page-link ul li a:hover {
+  color: #f75454;
+  transition: all 0.3s;
+}

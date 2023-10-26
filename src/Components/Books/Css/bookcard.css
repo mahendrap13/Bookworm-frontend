@@ -1,0 +1,92 @@
+
+.cart {
+  display: none;
+  transition: all 0.1s;
+}
+.cardss:hover .cart {
+  display: flex;
+  justify-content: space-between;
+  transition: all 0.5s;
+}
+.card-img {
+  height: 175px;
+  transition: all 0.5s !important;
+  overflow: hidden;
+}
+.cardss:hover .card-img {
+  height: 140px;
+  overflow: hidden;
+  transition: all 0.5s !important;
+}
+
+/* Target the Splide component */
+.splide {
+  position: relative; /* Ensure the container is relatively positioned */
+}
+
+/* Style the left and right buttons */
+.splide__arrow {
+  width: 45px; /* Set the width of the buttons */
+  height: 45px; /* Set the height of the buttons */
+  background-color: white; /* Set the background color of the buttons */
+  border: 1px solid grey; /* Remove borders if needed */
+  border-radius: 0%; /* Make the buttons round */
+  position: absolute; /* Position the buttons relative to the container */
+  top: 50%; /* Center vertically */
+  transform: translateY(-50%); /* Adjust vertical positioning */
+  z-index: 2; /* Ensure buttons are above the slides */
+  cursor: pointer; /* Add a pointer cursor */
+  transition: all 0.3s;
+  font-size: 12px;
+  color: red !important; /* Set the text color of the buttons */
+}
+.splide__arrow svg {
+  fill: black; /* Change the color of the icons here */
+}
+.splide__arrow:hover svg {
+  fill: white; /* Change the color of the icons here */
+}
+.splide__arrow:hover {
+  border: none;
+}
+/* Style the left button */
+.splide__arrow--prev {
+  left: -68px; /* Adjust the left button's position */
+}
+
+/* Style the right button */
+.splide__arrow--next {
+  right: -68px; /* Adjust the right button's position */
+}
+
+/* Hover effect for buttons (optional) */
+.splide__arrow:hover {
+  background-color: black; /* Change the background color on hover */
+  color: white !important;
+}
+
+/* Style the Splide pagination container */
+.splide__pagination {
+  text-align: center; /* Adjust alignment as needed */
+  margin-top: 0px; /* Adjust margin as needed */
+}
+
+/* Style the individual pagination button */
+.splide__pagination__page {
+  width: 7px; /* Adjust the width of each pagination button */
+  height: 7px; /* Adjust the height of each pagination button */
+  background-color: #dccccc; /* Background color of the pagination button */
+  border-radius: 50%; /* Make the button round */
+  margin: 0 5px; /* Adjust margin between buttons */
+  cursor: pointer;
+}
+
+/* Style the active pagination button */
+.splide__pagination__page.is-active {
+  border: 1px solid black;
+  padding: 2px;
+  background-color: #161619; /* Background color of the active button */
+}
+.splide__pagination.is-active {
+  background-color: red;
+}
